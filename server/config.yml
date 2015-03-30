@@ -1,0 +1,5 @@
+%YAML 1.2
+---
+settings:
+    port: 8000
+    debug: True
